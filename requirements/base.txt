@@ -1,0 +1,10 @@
+# Core requirements
+
+ipython
+dj-database-url==0.4.1
+django-extensions
+Django==3.0.6
+psycopg2
+django-split-settings==0.2.3
+
+# Addons requirements
