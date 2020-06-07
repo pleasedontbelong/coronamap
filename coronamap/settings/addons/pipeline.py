@@ -11,10 +11,6 @@ STATICFILES_FINDERS = (
     'pipeline.finders.PipelineFinder',
 )
 
-STATICFILES_DIRS = (
-    join(dirname(__file__), '..', '..', 'assets'),
-)
-
 PIPELINE = {
     'JAVASCRIPT': {
         'main': {
