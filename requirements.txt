@@ -33,6 +33,7 @@ six==1.15.0               # via django-extended-choices, django-extensions, trai
 sqlparse==0.3.1           # via django
 traitlets==4.3.3          # via ipython
 wcwidth==0.2.3            # via prompt-toolkit
+whitenoise==5.1.0         # via -r requirements/prod.txt
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
